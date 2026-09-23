@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ee2a6bc-9054-4007-b4e7-6dfc01d0bece" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/WDPLAB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SAMS_setup_Lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student_Registration_Lab2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HndPtCsiRe8i0DnoqJV7gdiYjm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.LAB1.executor": "Run",
+    "Python.List.executor": "Run",
+    "Python.SAMS_setup_Lab1.executor": "Run",
+    "Python.Student_Registration_Lab2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ee2a6bc-9054-4007-b4e7-6dfc01d0bece" name="Changes" comment="" />
+      <created>1786507746097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786507746097</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
